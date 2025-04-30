@@ -3,7 +3,7 @@
 ### Abstract:
 
 
-### Repository Architecture:
+### Repository Architecture
 
 #### Tabular Data: The main analysis is contained here.
 ##### EDA: Initial investigation of data for mushroom_cleaned.csv
